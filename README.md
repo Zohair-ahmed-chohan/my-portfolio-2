@@ -4,3 +4,5 @@ this is my second project work with hack club
 second project Build snack game using Python
 
 Set up game screen window size, background color Create the snake head set its initial starting position
+
+add snake food 
